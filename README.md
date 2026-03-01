@@ -164,19 +164,7 @@ Open [http://localhost:3000](http://localhost:3000) to see the app.
 
 ---
 
-## 📄 License
 
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
-
----
-
-## 👥 Team
-
-Built for **AI for Bharat** — bridging the legal justice gap with AI.
-
-| Role | Name |
-|------|------|
-| Developer | [@Gpar377](https://github.com/Gpar377) |
 
 ---
 
